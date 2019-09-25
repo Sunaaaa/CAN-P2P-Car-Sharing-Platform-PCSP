@@ -9,7 +9,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>상큼달콤 쉐어카 - 유자차222</title>
+  <title>상큼달콤 쉐어카 - 유자차2</title>
 
   <!-- Custom fonts for this theme -->
   <link href="resources/assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
